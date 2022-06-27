@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeteoLtWpf", "MeteoLtWpf\MeteoLtWpf.csproj", "{D643A39B-5046-49B6-B5D2-526E4860977D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeteoLibrary", "MeteoLibrary\MeteoLibrary.csproj", "{0397A862-17DD-4B6C-937A-7BEAC59AB538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D643A39B-5046-49B6-B5D2-526E4860977D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D643A39B-5046-49B6-B5D2-526E4860977D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D643A39B-5046-49B6-B5D2-526E4860977D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D643A39B-5046-49B6-B5D2-526E4860977D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0397A862-17DD-4B6C-937A-7BEAC59AB538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0397A862-17DD-4B6C-937A-7BEAC59AB538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0397A862-17DD-4B6C-937A-7BEAC59AB538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0397A862-17DD-4B6C-937A-7BEAC59AB538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5472DA9-AFDE-4905-90AE-C52BB07052A2}
+	EndGlobalSection
+EndGlobal
